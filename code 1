@@ -1,0 +1,6 @@
+cd techcore_site(1)
+git init
+git remote add origin https://github.com/shita0996/saleso-website.git
+git add .
+git commit -m "Initial commit"
+git push -u origin main
